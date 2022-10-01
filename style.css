@@ -23,7 +23,7 @@ h2 {
 }
 
 p {
-  line-height: 1.8;
+  line-height: 1.6;
   color: hsl(217, 12%, 63%);
 }
 
@@ -107,12 +107,12 @@ button {
   padding: 1.2rem;
   border-radius: 50%;
   background-color: hsla(213, 20%, 18%, 0.795);
-  margin-bottom: 2rem;
+  margin-bottom: 1.8rem;
 }
 
 .container h1,
 .thank-you h2 {
-  margin-bottom: 1rem;
+  margin-bottom: 0.8rem;
 }
 
 .container p {
